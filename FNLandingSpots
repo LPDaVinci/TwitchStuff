@@ -1,4 +1,4 @@
-"Dirty Docks" "Believer Beach" "Dinky Dish (IO Base)" "Misty Meadows" "Corny Complex"
+${random.pick 'Dirty Docks' 'Believer Beach' 'Dinky Dish (IO Base)' 'Corny Complex'}
 
 
 
