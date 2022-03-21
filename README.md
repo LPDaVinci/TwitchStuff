@@ -1,9 +1,10 @@
-# TITLE
+# Twitch Custom Scripts
 
-t**Discord** https://discord.gg/ (**Download, Support and WIP Releases**)
+**Discord** https://discord.gg/ (**Download, Support and WIP Releases**)
 **If you want to support this project development check out my Twitch Channel!**
+**Under: https://twitch.tv/lpdavinci
 
-Current version : 0.0.1-alpha
+
 
 ## Features:
 Test
